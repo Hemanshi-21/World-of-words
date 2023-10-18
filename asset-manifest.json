@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/World-of-words/static/css/main.194aac26.css",
+    "main.js": "/World-of-words/static/js/main.abad09d7.js",
+    "static/js/787.1bf96950.chunk.js": "/World-of-words/static/js/787.1bf96950.chunk.js",
+    "static/media/vission.jpg": "/World-of-words/static/media/vission.90d9dd1e178aece07c87.jpg",
+    "static/media/cultural.jpg": "/World-of-words/static/media/cultural.5d650fc76fce677cbaac.jpg",
+    "static/media/education.jpg": "/World-of-words/static/media/education.8e446328bcc065bb9be9.jpg",
+    "static/media/media.jpg": "/World-of-words/static/media/media.f3a2b9e2a1b7641a3cbf.jpg",
+    "static/media/corporate.jpg": "/World-of-words/static/media/corporate.65ddd6c60b4798b6b9ce.jpg",
+    "static/media/goverment.jpg": "/World-of-words/static/media/goverment.b779075f0d870d2717b6.jpg",
+    "static/media/aviral.jpg": "/World-of-words/static/media/aviral.dd9bbf7780c1649b13de.jpg",
+    "static/media/mission.jpg": "/World-of-words/static/media/mission.e90e9e68525a107da3ad.jpg",
+    "static/media/logo.png": "/World-of-words/static/media/logo.013a36f08de86b2b1d1b.png",
+    "index.html": "/World-of-words/index.html",
+    "main.194aac26.css.map": "/World-of-words/static/css/main.194aac26.css.map",
+    "main.abad09d7.js.map": "/World-of-words/static/js/main.abad09d7.js.map",
+    "787.1bf96950.chunk.js.map": "/World-of-words/static/js/787.1bf96950.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.194aac26.css",
+    "static/js/main.abad09d7.js"
+  ]
+}
